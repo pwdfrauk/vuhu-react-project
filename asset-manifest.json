@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vuhu-reac-project/static/css/main.0f5a9f66.chunk.css",
+    "main.js": "/vuhu-reac-project/static/js/main.7e07ff90.chunk.js",
+    "main.js.map": "/vuhu-reac-project/static/js/main.7e07ff90.chunk.js.map",
+    "runtime-main.js": "/vuhu-reac-project/static/js/runtime-main.b8457fb5.js",
+    "runtime-main.js.map": "/vuhu-reac-project/static/js/runtime-main.b8457fb5.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/vuhu-reac-project/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.20c1cde3.chunk.js": "/vuhu-reac-project/static/js/2.20c1cde3.chunk.js",
+    "static/js/2.20c1cde3.chunk.js.map": "/vuhu-reac-project/static/js/2.20c1cde3.chunk.js.map",
+    "static/js/3.75294e9e.chunk.js": "/vuhu-reac-project/static/js/3.75294e9e.chunk.js",
+    "static/js/3.75294e9e.chunk.js.map": "/vuhu-reac-project/static/js/3.75294e9e.chunk.js.map",
+    "index.html": "/vuhu-reac-project/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/vuhu-reac-project/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.0f5a9f66.chunk.css.map": "/vuhu-reac-project/static/css/main.0f5a9f66.chunk.css.map",
+    "static/js/2.20c1cde3.chunk.js.LICENSE.txt": "/vuhu-reac-project/static/js/2.20c1cde3.chunk.js.LICENSE.txt",
+    "static/media/gool.7957394d.png": "/vuhu-reac-project/static/media/gool.7957394d.png",
+    "static/media/logo.fceb53ac.png": "/vuhu-reac-project/static/media/logo.fceb53ac.png",
+    "static/media/mobile.177e3eb7.gif": "/vuhu-reac-project/static/media/mobile.177e3eb7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8457fb5.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.20c1cde3.chunk.js",
+    "static/css/main.0f5a9f66.chunk.css",
+    "static/js/main.7e07ff90.chunk.js"
+  ]
+}
